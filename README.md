@@ -19,7 +19,7 @@ puts("Jahnavi Singh");
 puts("**************");
 
 return 0;
-}tex
+}
 ```
 ![1.png](https://github.com/1915322/PPS/blob/master/outputs/1.png)
 ### 2) To print College address.
@@ -36,7 +36,7 @@ printf("\n\t\t\tLudhiana , Punjab");
 return 0;
 }
 ```
-![2.png](https://github.com/devanshdhiman77/PPS/blob/master/images/2.png)
+![2.png](https://github.com/1915322/PPS/blob/master/outputs/2.png)
 ### 3) Program to add two integers.
 ```C
      /* To add two integers */
