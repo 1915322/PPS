@@ -137,7 +137,7 @@ int main() {
   return 0;
 }
 ```
-![6.png](https://github.com/devanshdhiman77/PPS/blob/master/images/6.png)
+![6.png](https://github.com/1915322/PPS/blob/master/outputs/6.png)
 ### 7) Finding greteast of two numbers.
 ```C
      /* Largest one in two */
