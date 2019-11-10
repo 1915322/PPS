@@ -1239,7 +1239,8 @@ printf("__________________________________\n");
 
 }
 ```
-![30.png](https://github.com/1915322/PPS/blob/master/outputs/30a.png)
+![30a.png](https://github.com/1915322/PPS/blob/master/outputs/30a.png)
+![30b.png](https://github.com/1915322/PPS/blob/master/outputs/30b.png)
 
 ### 31) Program to implement bubble sort.
 ```C
