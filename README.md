@@ -868,6 +868,7 @@ int main() {
 }
 ```
 ![25a.png](https://github.com/1915322/PPS/blob/master/outputs/25a.png)
+![25b.png](https://github.com/1915322/PPS/blob/master/outputs/25b.png)
 ### 26) Programs to swap two numbers using call by value and call by refernce.
 
 ### Call by reference
