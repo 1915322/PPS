@@ -21,7 +21,7 @@ puts("**************");
 return 0;
 }tex
 ```
-![1.png](https://github.com/1915322/PPS/blob/master/images/1.png)
+![1.png](https://github.com/1915322/PPS/blob/master/outputs/1.png)
 ### 2) To print College address.
 ```C
         /* College Address */
