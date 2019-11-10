@@ -1281,6 +1281,7 @@ int main()
   return 0;
 }
 ```
+
 ![31.png](https://github.com/1915322/PPS/blob/master/outputs/31.png)
 ### 32) Program to store information of 10 students using array of structures.
 ```C
@@ -1321,6 +1322,7 @@ int main()
   return 0;
 }
 ```
+![32.png](https://github.com/1915322/PPS/blob/master/outputs/32.png)
 ### 33) Programs to compute the transpose of a matrix.
 ```C
 #include <stdio.h>
