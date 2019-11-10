@@ -62,7 +62,7 @@ return 0;
 
 }
 ```
-![3.png](https://github.com/devanshdhiman77/PPS/blob/master/images/3.png)
+![3.png](https://github.com/1915322/PPS/blob/master/outputs/3.png)
 ### 4) Program to find quotient and remainder.
 ```C
     /* To find quotient and remainder */
@@ -88,7 +88,7 @@ printf("\nQuotient: %d",q);
 return 0;
 }
 ```
-![4.png](https://github.com/devanshdhiman77/PPS/blob/master/images/4.png)
+![4.png](https://github.com/1915322/PPS/blob/master/outputs/4.png)
 ### 5) Program to swap two variables without 3rd variable.
 ```C
     /* Swapping without 3rd variable  */
@@ -114,7 +114,7 @@ printf("\nB: %d",b);
 return 0;
 }
 ```
-![5.png](https://github.com/devanshdhiman77/PPS/blob/master/images/5.png)
+![5.png](https://github.com/1915322/PPS/blob/master/outputs/5.png)
 ### 6) Program to check even odd number.
 ```C
 /* To find whether number is even or odd */
