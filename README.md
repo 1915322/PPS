@@ -157,7 +157,7 @@ else
 return 0;
 }
 ```
-![7.png](https://github.com/devanshdhiman77/PPS/blob/master/images/7.png)
+![7.png](https://github.com/1915322/PPS/blob/master/outputs/7.png)
 ### 8) Find greatest of three number .
 ```C
 /* Largest of three number */
@@ -177,7 +177,7 @@ printf("\n\n Largest  or biggest or greatest or maximum among 3 numbers using Co
  return 0;
 }
 ```
-![8.png](https://github.com/devanshdhiman77/PPS/blob/master/images/8.png)
+![8.png](https://github.com/1915322/PPS/blob/master/outputs/8.png)
 ### 9) Program to assign grade to student according to percentage.
 ```C
 /* To find grade of a student by marks */
@@ -229,7 +229,7 @@ agg=s1+s2+s3+s4+s5; // Aggregate Marks
     return 0;
 }
 ```
-![9.png](https://github.com/devanshdhiman77/PPS/blob/master/images/9.png)
+![9.png](https://github.com/1915322/PPS/blob/master/outputs/9.png)
 ### 10) Program to print roots of quadratic equation.
 ```C
 /*Program to print roots */
@@ -286,7 +286,7 @@ else if (disc > 0 )
    return 0;
 }
 ```
-![10.png](https://github.com/devanshdhiman77/PPS/blob/master/images/10.png)
+![10.png](https://github.com/1915322/PPS/blob/master/outputs/10.png)
 ### 11) Program to check year is leap or not.
 ```C
 /* To find whether year is leap or not */
@@ -319,7 +319,7 @@ else
   return 0;
 }
 ```
-![11.png](https://github.com/devanshdhiman77/PPS/blob/master/images/11.png)
+![11.png](https://github.com/1915322/PPS/blob/master/outputs/11.png)
 ### 12) Program to print table of 5.
 ```C
 /* Table of 5 */
@@ -338,7 +338,7 @@ res=5*i;
    return 0;
 }
 ```
-![12.png](https://github.com/devanshdhiman77/PPS/blob/master/images/12.png)
+![12.png](https://github.com/1915322/PPS/blob/master/outputs/12.png)
 ### 13) To make simple calculator using switch case.
 ```C
 /* C Program to Create Simple Calculator using Switch Case */
@@ -378,7 +378,7 @@ printf("\n The result of %.2f %c %.2f  = %.2f", num1, Operator, num2, result);
 return 0;
 }
 ```
-![13.png](https://github.com/devanshdhiman77/PPS/blob/master/images/13.png)
+![13.png](https://github.com/1915322/PPS/blob/master/outputs/13.png)
 ### 14) To calculate reverse of a number.
 ```C
 /* To find reverse of a Number*/
@@ -405,7 +405,7 @@ while(num!=0)
   return 0;
 }
 ```
-![14.png](https://github.com/devanshdhiman77/PPS/blob/master/images/14.png)
+![14.png](https://github.com/1915322/PPS/blob/master/outputs/14.png)
 ### 15) To check whether number is palindrome or not.
 ```C
  /* Palindrome of a number */
@@ -433,7 +433,7 @@ int main() {
     return 0;
 }
 ```
-![15.png](https://github.com/devanshdhiman77/PPS/blob/master/images/15.png)
+![15.png](https://github.com/1915322/PPS/blob/master/outputs/15.png)
 ### 16) To check whether a number is prime or not.
 ```C
 /* Program to check prime no. */
@@ -471,7 +471,7 @@ return 0;
     
 }
 ```
-![16.png](https://github.com/devanshdhiman77/PPS/blob/master/images/16.png)
+![16.png](https://github.com/1915322/PPS/blob/master/outputs/16.png)
 ### 17) Program to print prime number to 100.
 ```C
 /* Prime number from 1 to 100 */
@@ -510,7 +510,7 @@ printf(" The prime numbers between 1 and 100 : \n");
 
    } 
  ``` 
- ![17.png](https://github.com/devanshdhiman77/PPS/blob/master/images/17.png)
+ ![17.png](https://github.com/1915322/PPS/blob/master/outputs/17.png)
 ### 18) Program to check whether a number is armstrong or not.
 ```C
 /* To check armstrong number */
@@ -542,7 +542,7 @@ return 0;
 }
 
 ```
-![18.png](https://github.com/devanshdhiman77/PPS/blob/master/images/18.png)
+![18.png](https://github.com/1915322/PPS/blob/master/outputs/18.png)
 ### 19) Print Different Patterns.
 i) Pattern 1.
 ```C
@@ -566,7 +566,7 @@ for(i=1; i<=r; ++i)
 }
 
 ```
-![19_1.png](https://github.com/devanshdhiman77/PPS/blob/master/images/19_1.png)
+![19a.png](https://github.com/1915322/PPS/blob/master/outputs/19a.png)
 ### ii) Pattern 2. 
 ```C
 #include <stdio.h>
@@ -587,7 +587,7 @@ int main() {
     return 0;
 }
 ```
-![19_2.png](https://github.com/devanshdhiman77/PPS/blob/master/images/19_2.png)
+![19b.png](https://github.com/1915322/PPS/blob/master/outputs/19b.png)
 ### 20) Program to find largest from 1 dimensional array.
 ```C 
 /* Largest in 1 dimensional array */
@@ -620,7 +620,7 @@ int main() {
     return 0;
 }
 ```
-![20.png](https://github.com/devanshdhiman77/PPS/blob/master/images/20.png)
+![20.png](https://github.com/1915322/PPS/blob/master/outputs/20.png)
 
 ### 21) To find sumof the N natural numbers in an array.
 ```C
@@ -647,7 +647,7 @@ for(c = 0; c < n; c++)
     return 0;
 }
 ```
-![21.png](https://github.com/devanshdhiman77/PPS/blob/master/images/21.png)
+![21.png](https://github.com/1915322/PPS/blob/master/outputs/21.png)
 
 ### 22) Program to add two matrices .
 ```C
@@ -687,7 +687,7 @@ int main() {
    return 0;
 }
 ```
-![22.png](https://github.com/devanshdhiman77/PPS/blob/master/images/22.png)
+![22.png](https://github.com/1915322/PPS/blob/master/outputs/22.png)
 ### 23) Program to multiply two matrices .
 ```C
 /* Multiplation of matrices */
@@ -745,7 +745,7 @@ for (c=0;c<p;c++)
   return 0;
 }
 ```
-![23.png](https://github.com/devanshdhiman77/PPS/blob/master/images/23.png)
+![23.png](https://github.com/1915322/PPS/blob/master/outputs/23.png)
 ### 24) Program to check whether  a string is palindrome or not .
 ```C
 #include<stdio.h>
@@ -773,7 +773,7 @@ if(c==i)
 return 0;
 }
 ```
-![24.png](https://github.com/devanshdhiman77/PPS/blob/master/images/24.png)
+![24.png](https://github.com/1915322/PPS/blob/master/outputs/24.png)
 ### 25) Program to perform basic operations like lenghth of string ,string concat, string copy ,string compare and string reverse.
 ```C
 /*Fundamental string operation, lenth, concatenation, compare and copy strings without string.h */
@@ -867,7 +867,7 @@ int main() {
   return 0;
 }
 ```
-![25.png](https://github.com/devanshdhiman77/PPS/blob/master/images/25.png)
+![25a.png](https://github.com/1915322/PPS/blob/master/outputs/25a.png)
 ### 26) Programs to swap two numbers using call by value and call by refernce.
 
 ### Call by reference
@@ -902,7 +902,7 @@ void swap(int *a, int *b)
    *a = temp;
 }
 ```
-![26_1.png](https://github.com/devanshdhiman77/PPS/blob/master/images/26_1.png)
+![26.png](https://github.com/1915322/PPS/blob/master/outputs/26.png)
 ### call by value:- 
 ```C
 /* Call by value */
@@ -936,7 +936,7 @@ void swap(int a, int b) {
     printf("Values of a and b is %d  %d\n",a,b);
 }
 ```
-![26_2.png](https://github.com/devanshdhiman77/PPS/blob/master/images/26_2.png)
+![26a.png](https://github.com/1915322/PPS/blob/master/outputs/26a.png)
    
 ### 27) Program to calculate factorial of a number with and without recursion both.
 ```C
@@ -960,7 +960,7 @@ long int multiplyNumbers(int n)
         return 1;
 }
 ```
-![27_1.png](https://github.com/devanshdhiman77/PPS/blob/master/images/27_1.png)
+![27.png](https://github.com/1915322/PPS/blob/master/outputs/27.png)
 
 ```C
 /* Without recrsion: */
@@ -982,7 +982,7 @@ int main() {
   return 0;
 }
 ```
-![27_2.png](https://github.com/devanshdhiman77/PPS/blob/master/images/27_2.png)
+![27a.png](https://github.com/1915322/PPS/blob/master/outputs/27a.png)
 
 ### 28) Program to print fibonacci series with and without recursion both.
 ```C
@@ -1020,7 +1020,7 @@ void series(int n)		// definition
   }
 }
 ```
-![28_1.png](https://github.com/devanshdhiman77/PPS/blob/master/images/28_1.png)
+![28.png](https://github.com/1915322/PPS/blob/master/outputs/28.png)
 ```C
 // Fibonaci series without  recursion:-
 #include <stdio.h>
@@ -1060,7 +1060,7 @@ int fibo(int num)
     }
 }
 ```
-![28_2.png](https://github.com/devanshdhiman77/PPS/blob/master/images/28_2.png)
+![28a.png](https://github.com/1915322/PPS/blob/master/outputs/28a.png)
 
 ### 29) Program to calculate average of 5 numbers using function.
 ```C
@@ -1087,7 +1087,7 @@ int main() { int a1,a2,a3,a4,a5,res;
    return p;
  }
  ```
-![29.png](https://github.com/devanshdhiman77/PPS/blob/master/images/29.png)
+![29.png](https://github.com/1915322/PPS/blob/master/outputs/29.png)
 ### 30) Program to implement linear serach and binary.
  ```C
 /* Program to implement linear search and Binary search */
@@ -1238,7 +1238,7 @@ printf("__________________________________\n");
 
 }
 ```
-![30.png](https://github.com/devanshdhiman77/PPS/blob/master/images/30.png)
+![30.png](https://github.com/1915322/PPS/blob/master/outputs/30a.png)
 
 ### 31) Program to implement bubble sort.
 ```C
@@ -1279,7 +1279,7 @@ int main()
   return 0;
 }
 ```
-![31.png](https://github.com/devanshdhiman77/PPS/blob/master/images/31.png)
+![31.png](https://github.com/1915322/PPS/blob/master/outputs/31.png)
 ### 32) Program to store information of 10 students using array of structures.
 ```C
 /* Structures for student */
@@ -1363,7 +1363,7 @@ int main()
     return 0;
 }
 ```
-![33.png](https://github.com/devanshdhiman77/PPS/blob/master/images/33.png)
+![33.png](https://github.com/1915322/PPS/blob/master/outputs/33.png)
 ### 34) Program to print the address of variable using pointer.
 ```C
 #include <stdio.h>
@@ -1380,7 +1380,7 @@ int main() {
   return 0;
 }
 ```
-![34.png](https://github.com/devanshdhiman77/PPS/blob/master/images/34.png)
+![34.png](https://github.com/1915322/PPS/blob/master/outputs/34.png)
 ### 35) Program to access array using pointer.
 ```C
 #include <stdio.h>
@@ -1396,4 +1396,4 @@ int main()
    return 0;
 }
 ```
-![35.png](https://github.com/devanshdhiman77/PPS/blob/master/images/35.png)
+![35.png](https://github.com/1915322/PPS/blob/master/outputs/35.png)
